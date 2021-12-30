@@ -1,0 +1,27 @@
+h1:hover
+{
+   color: blue;
+   font-size: 100px
+}
+.broccoli:hover
+{
+  background-color: red
+}
+.bacon:hover
+{
+  background-color: green;
+}
+.circle
+{
+border-radius: 100%;
+}
+#heading:hover
+{
+  font-style: italic;
+  color: #F47340;
+}
+#tailing:hover
+{
+  font-style: oblique;
+  color: #2F3A8F;
+}
